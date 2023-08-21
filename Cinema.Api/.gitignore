@@ -173,3 +173,6 @@ Tools/CognitoBackupRestore/config.json
 
 #plantUml diagrams
 /out
+
+.DS_Store
+.idea
