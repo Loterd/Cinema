@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Api", "Cinema.Api\Cinema.Api.csproj", "{7E9FEF12-C8CE-4E2A-8209-554B2A76EB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Tests", "Cinema.Tests\Cinema.Tests.csproj", "{F4171187-D809-4958-B21A-71F05FC19D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9FEF12-C8CE-4E2A-8209-554B2A76EB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9FEF12-C8CE-4E2A-8209-554B2A76EB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9FEF12-C8CE-4E2A-8209-554B2A76EB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9FEF12-C8CE-4E2A-8209-554B2A76EB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4171187-D809-4958-B21A-71F05FC19D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4171187-D809-4958-B21A-71F05FC19D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4171187-D809-4958-B21A-71F05FC19D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4171187-D809-4958-B21A-71F05FC19D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

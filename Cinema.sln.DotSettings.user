@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1800071d_002D718c_002D4db1_002Daa20_002D5dce1a649a71/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetMovieByIdAsync_ExistingId_ReturnsMovie" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F4171187-D809-4958-B21A-71F05FC19D93::net7.0::Cinema.Tests.MovieServiceTests.GetMovieByIdAsync_ExistingId_ReturnsMovie&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=924b9709_002Db7b6_002D4801_002D9c94_002Dbcc6b6f9cd85/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetMovieByIdAsync_NonExistingId_ReturnsNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F4171187-D809-4958-B21A-71F05FC19D93::net7.0::Cinema.Tests.MovieServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0842698_002D38cd_002D438c_002Db43c_002Ddc3ae84d5bc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateMovieAsync_ValidPayload_CreatesMovie" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F4171187-D809-4958-B21A-71F05FC19D93::net7.0::Cinema.Tests.MovieServiceTests.CreateMovieAsync_ValidPayload_CreatesMovie&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

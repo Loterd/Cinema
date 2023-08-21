@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cinema.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Cinema.Controllers.MoviesController.GetAllMovies">
+            <summary>
+            Returns all movies
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.MoviesController.GetMovieById(System.Guid)">
+            <summary>
+            Returns movie by id
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.MoviesController.CreateMovie(Cinema.Models.MoviePayload)">
+            <summary>
+            Creates a new movie
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.MoviesController.UpdateMovie(System.Guid,Cinema.Models.MoviePayload)">
+            <summary>
+            Update existing movie
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.MoviesController.DeleteMovie(System.Guid)">
+            <summary>
+            Deletes existing movie
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.ShowtimesController.GetShowtimesByTheater(System.Guid)">
+            <summary>
+            Returns showtime for provided theaterId
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.ShowtimesController.GetShowtimesByMovie(System.Guid)">
+            <summary>
+            Returns showtime for provided movieId
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.ShowtimesController.GetById(System.Guid)">
+            <summary>
+            Returns showtime showtime id
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.ShowtimesController.CreateShowtime(Cinema.Models.ShowtimePayload)">
+            <summary>
+            Creates a new showtime
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.TheaterController.GetAllTheaters">
+            <summary>
+            Returns all theaters
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.TheaterController.GetTheaterById(System.Guid)">
+            <summary>
+            Returns theater by id
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.TheaterController.CreateTheater(Cinema.Models.TheaterPayload)">
+            <summary>
+            Creates a new theater
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.UserReservationsController.CreateReservation(Cinema.Models.CreateUserReservationPayload)">
+            <summary>
+            Creates a new user reservation
+            </summary>
+        </member>
+        <member name="M:Cinema.Controllers.UserReservationsController.ConfirmReservation(System.Guid)">
+            <summary>
+            Confirms existing user reservation
+            </summary>
+        </member>
+        <member name="T:Cinema.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:Cinema.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Cinema.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Cinema.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

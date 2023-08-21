@@ -1,7 +1,13 @@
-namespace Cinema
-{
-    public class Usings
-    {
-        
-    }
-}
+global using System.Reflection;
+global using Cinema.DbContext;
+global using Cinema.Middlewares;
+global using Cinema.Repositories.Implementations;
+global using Cinema.Repositories.Interfaces;
+global using Cinema.Services.Implementations;
+global using Cinema.Services.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using Cinema.Exceptions.Exceptions;
+global using Cinema.Models;
+global using Microsoft.EntityFrameworkCore;
+global using Cinema.Commands;
+global using MediatR;
